@@ -1,0 +1,35 @@
+.imagem{
+    background-image: url(../p2/Gif_Librarian.gif);
+    width: 150px;
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.lat{
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+
+Main{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(43, 47, 49);
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(66, 73, 77);
+    width: 100%;
+    color: white;
+}
+
+.links{
+    padding-bottom: 30px;
+}
+
+
